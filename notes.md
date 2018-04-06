@@ -42,7 +42,8 @@ minor
 	critical bug
 	blocker  bug
 
-
+## Integrating with Jenkins
+SonarQube can be integrated with Jenkins to generate the code analysis report based on check-in on periodically
 
 
 
