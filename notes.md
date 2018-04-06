@@ -6,7 +6,7 @@ The source code is analyzed based on the rules in SonarQube.
 ## Rules
 The rules are specific to the language. This needs a plug-in to be installed.
 	1. Pre-defined
-	2. Custom defined
+	2. Custom defined ( sonarqube-6.5\extensions\plugins )
 	
 Note: SonarQube ( v6.5 ) needs java 1.8 version to be installed in system and available in environment PATH variable.
 
